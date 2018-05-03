@@ -8,7 +8,6 @@ const layout = (props) => (
         <div> Toolbar , SlideDrawer, BackDrop</div>
         <main className={classes.Content}>
             {props.children}
-
         </main>
     </Auo>
 );
